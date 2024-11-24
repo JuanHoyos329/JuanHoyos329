@@ -4,5 +4,5 @@
 
 <br><br>
 
-- :school: I am a `Student` at Faculty of sciencie basic and enginner at [Autonoma de Occidente University](https://www.uao.edu.co).
+- :school: I am a `Student` at Faculty of sciencie basic and enginner at [Universidad Autonoma de Occidente](https://www.uao.edu.co).
 
